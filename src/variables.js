@@ -49,7 +49,7 @@ return true if c is null, false otherwise
 */
 function isNull(c) {
   //your code here
-  if(c === null){
+  if(c === null && c !== undefined){
   	return true;
   }
   else{

@@ -81,7 +81,7 @@ function GitLog(hash, date, message) {
 
 var parseGit = function(logArray){
 	var arr = []; 
-	console.log(logArray[i]);
+	
 	for(var i = 0; i < logArray.length; i++){
 		var temp_hash = logArray[i].split(" ", 1);
 		var temp_date = logArray[i].slice(8, 38)
