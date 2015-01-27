@@ -1,1 +1,17 @@
 You log goes in this  file.
+
+Start: Sun, 25 Jan 2015 16:40:00 -0800
+End; Thu, 22 Jan 2015 16:55:00 -0800 
+Tasks: Cloned CS290 repository, pushed local repository to jobediah account, read README 
+
+Start: Mon, 26 Jan 2015 22:53:29 -0700
+End: Mon, 26 Jan 2015 21:07:49 -0700 
+Tasks: variables.js passes all tests
+
+Start: Mon, 26 Jan 2015 22:33:00 -0700
+End: Mon, 26 Jan 2015 22:53:29 -0700 
+Tasks: functions.js is completed after reading class dicussion threads
+
+Start: Tue, 27 Jan 2015 10:20:00 -0700
+End: Tue, 27 Jan 2015 12:21:02 -0700 
+Tasks: Completed objects.js
